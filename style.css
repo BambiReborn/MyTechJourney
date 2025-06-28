@@ -17,8 +17,8 @@ img{
 .father{
     display: flex;
     justify-content: space-between;
-    max-width: 65vw;
-    max-height: 400vh;
+    width: 63rem;
+    height: 80rem;
     margin-top: 30px;
     margin-left: 15rem;
     border: solid blueviolet;
