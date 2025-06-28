@@ -1,5 +1,5 @@
 *{
-    margin: 10px;
+    margin: 15px;
 }
 
 
@@ -17,7 +17,10 @@ img{
 .father{
     display: flex;
     justify-content: space-between;
+    max-width: 65vw;
+    max-height: 400vh;
     margin-top: 30px;
+    margin-left: 15rem;
     border: solid blueviolet;
     border-radius: 5%;
     background-color: whitesmoke;
@@ -36,6 +39,7 @@ h3{
 .write-up, p{
     text-align: justify;
     margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* background-color: whitesmoke; */
     border-radius: 5%;
 }
